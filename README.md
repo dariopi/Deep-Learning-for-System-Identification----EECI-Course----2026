@@ -7,7 +7,7 @@ Dario Piga, Dalle Molle Institute for Artificial Intelligence, SUPSI, Lugano, Sw
 Marco Forgione, Dalle Molle Institute for Artificial Intelligence, SUPSI, Lugano, Switzerland. Mail: marco.forgione(at)supsi.ch
 
 ## Program
-The Program of the course can be found in the document [Program.docs](Program.docs)
+The Program of the course can be found in the document [Program.docx](Program.docx)
 
 ## Lessons
 Slides of the lessons can be found in the folder [lessons](lessons)
