@@ -3,6 +3,7 @@ This repository contains the material for the EECI course Deep Learning for Syst
 
 ## Lecturers
 Dario Piga, Dalle Molle Institute for Artificial Intelligence, SUPSI, Lugano, Switzerland. Mail: dario.piga(at)supsi.ch
+
 Marco Forgione, Dalle Molle Institute for Artificial Intelligence, SUPSI, Lugano, Switzerland. Mail: marco.forgione(at)supsi.ch
 
 ## Program
@@ -28,7 +29,7 @@ We recommend setting up a **Conda virtual environment** with Python and the requ
     ```bash
     git clone https://github.com/dariopi/Deep-Learning-for-System-Identification----EECI-Course----2026
     ```
-  - Alternatively, download.
+  - Alternatively, download it.
 
 3. **Create and activate the Conda environment**  
   Open a terminal, navigate to the project's root directory, and run:
