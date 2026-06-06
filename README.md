@@ -1,5 +1,9 @@
 # Deep Learning for System Identification 
-This repository contains the material for the EECI course Deep Learning for System Identification, held in Leuven from June 15 to June 19, 2026.
+This repository contains the material for the EECI course Deep Learning for System Identification, held in Leuven, Belgium, from June 15 to June 19, 2026.
+
+## Lecturers
+Dario Piga, Dalle Molle Institute for Artificial Intelligence, SUPSI, Lugano, Switzerland. Mail: dario.piga(at)supsi.ch
+Marco Forgione, Dalle Molle Institute for Artificial Intelligence, SUPSI, Lugano, Switzerland. Mail: marco.forgione(at)supsi.ch
 
 ## Program
 The Program of the course can be found in the document [Program.docs](Program.docs)
