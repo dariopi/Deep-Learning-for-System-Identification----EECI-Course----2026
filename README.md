@@ -1,8 +1,8 @@
 # Deep Learning for System Identification 
-This repository contains the material for the EECI course Deep Learning for System Identification, held in Milan from June 30 to July 4, 2025.
+This repository contains the material for the EECI course Deep Learning for System Identification, held in Leuven from June 15 to June 19, 2026.
 
 ## Program
-The Program of the course can be found in the document [Program.pdf](Program.pdf)
+The Program of the course can be found in the document [Program.docs](Program.docs)
 
 ## Lessons
 Slides of the lessons can be found in the folder [lessons](lessons)
@@ -22,9 +22,9 @@ We recommend setting up a **Conda virtual environment** with Python and the requ
 2. **Get the course repository**
   - If you have Git installed, clone the repository:
     ```bash
-    git clone https://github.com/dariopi/dl-sysid-eeci2026
+    git clone https://github.com/dariopi/Deep-Learning-for-System-Identification----EECI-Course----2026
     ```
-  - Alternatively, download it as a ZIP file from [this link](https://github.com/forgi86/dl-sysid-eeci2025/archive/refs/heads/main.zip) and extract it.
+  - Alternatively, download.
 
 3. **Create and activate the Conda environment**  
   Open a terminal, navigate to the project's root directory, and run:
