@@ -188,4 +188,4 @@ cython_debug/
 *.tmp
 
 private/*
-
+.vscode
