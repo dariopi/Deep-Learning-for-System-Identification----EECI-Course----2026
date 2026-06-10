@@ -1,5 +1,10 @@
 # Deep Learning for System Identification 
 This repository contains the material for the EECI course Deep Learning for System Identification, held in Leuven, Belgium, from June 15 to June 19, 2026.
+The course will take place at the [Thermotechnisch Instituut](https://www.kuleuven.be/kulag/en/gebouw/337-01) of KU Leuven:
+
+Thermotechnisch Instituut<br/>
+Kasteelpark Arenberg 10<br/>
+3001 Leuven, Belgium<br/>
 
 ## Lecturers
 Dario Piga, Dalle Molle Institute for Artificial Intelligence, SUPSI, Lugano, Switzerland. Mail: dario.piga(at)supsi.ch
@@ -47,4 +52,3 @@ conda activate eeci
 jupyter notebook
 ```
 Advanced user may opt for alternative setups such as venv, Docker, and different development environments like VSCode, PyCharm, etc., provided all required dependencies are installed and notebooks run as expected.
-
