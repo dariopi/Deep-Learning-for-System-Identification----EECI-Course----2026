@@ -1,5 +1,7 @@
 # Deep Learning for System Identification 
 This repository contains the material for the EECI course Deep Learning for System Identification, held in Leuven, Belgium, from June 15 to June 19, 2026.
+
+## Location
 The course will take place at the [Thermotechnisch Instituut](https://www.kuleuven.be/kulag/en/gebouw/337-01) of KU Leuven:
 
 Thermotechnisch Instituut<br/>
