@@ -54,3 +54,7 @@ conda activate eeci
 jupyter notebook
 ```
 Advanced user may opt for alternative setups such as venv, Docker, and different development environments like VSCode, PyCharm, etc., provided all required dependencies are installed and notebooks run as expected.
+
+## Public Transport
+There are several buses per hour that bring you to the Thermotechnisch Instituut where the lectures will take place.
+Please check on https://www.delijn.be/en/routeplanner (destination “Heverlee Kantineplein”)
