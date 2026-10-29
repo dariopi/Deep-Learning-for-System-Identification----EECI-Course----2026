@@ -5,7 +5,7 @@ matplotlib
 notebook
 tqdm
 dynonet
-torch==2.7.0
+torch==2.12.0
 torchsummary
 nonlinear_benchmarks
 ipympl
